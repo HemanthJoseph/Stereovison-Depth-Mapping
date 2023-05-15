@@ -112,7 +112,7 @@ These outputs are for just one dataset. Outputs from other datasets are availabl
 ## Usage
 * Clone the repo to your local machine
 ```
-git clone [insert url here]
+git clone https://github.com/HemanthJoseph/Stereovison-Depth-Mapping.git
 ```
 * Run the python file of choice
 ```
